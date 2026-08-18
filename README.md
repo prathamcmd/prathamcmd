@@ -26,7 +26,7 @@ I enjoy building practical applications and exploring how software works from bo
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.youtube.com/@techoshii">
+<a href="https://www.youtube.com/@prathamcmd">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
