@@ -111,11 +111,6 @@ A mobile-first fitness management application for tracking workouts, diet, body 
 
 **Built with:** JavaScript
 
----
-
-## 📊 GitHub Activity
-
-
 
 
 ## 📫 Let's Connect
