@@ -18,7 +18,7 @@ I enjoy building practical applications and exploring how software works from bo
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pratham-joshi-948a4819b/">
+<a href="https://www.linkedin.com/in/prathamcmd">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
