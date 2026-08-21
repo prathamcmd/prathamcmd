@@ -131,6 +131,10 @@ A mobile-first fitness management application for tracking workouts, diet, body 
 
 <br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=ec4899&size=16&center=true&vCenter=true&width=600&height=40&lines=Structured+Kaos+System+Online;Waiting+for+next+input...;END_OF_TRANSMISSION" alt="Typing SVG" />
+</div>
+
 ## 📫 Let's Connect
 
 I'm interested in **software engineering, backend development, cybersecurity, DSA, hackathons and building useful technology.**
