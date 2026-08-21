@@ -52,7 +52,7 @@ I enjoy building practical applications and exploring how software works from bo
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 🎓 3rd-year B.Tech CSE student specializing in **Cyber Security**
 * 💻 Interested in **Software Engineering & Backend Development**
@@ -64,7 +64,7 @@ I enjoy building practical applications and exploring how software works from bo
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-## 🛠️ Technologies
+### 🛠️ Technologies
 
 <p align="center">
 
