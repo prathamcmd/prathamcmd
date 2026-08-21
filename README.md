@@ -117,8 +117,21 @@ A real-time synchronized speaker system that allows multiple devices to work tog
 A mobile-first fitness management application for tracking workouts, diet, body metrics and fitness progress.
 
 **Built with:** JavaScript
+## Snake Git
+<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/prathamcmd/prathamcmd/output/snake.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/prathamcmd/prathamcmd/output/snake.svg">
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/prathamcmd/prathamcmd/output/snake.svg">
+  </picture>
+</div>
 
+<br/>
 
 ## 📫 Let's Connect
 
