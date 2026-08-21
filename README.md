@@ -116,8 +116,6 @@ A real-time synchronized speaker system that allows multiple devices to work tog
 
 A mobile-first fitness management application for tracking workouts, diet, body metrics and fitness progress.
 
-**Built with:** JavaScript
-#hdvhdj
 <br/>
 
 <div align="center">
