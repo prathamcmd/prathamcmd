@@ -6,11 +6,12 @@ I'm a 3rd-year B.Tech Computer Science Engineering student specializing in **Cyb
 
 I enjoy building practical applications and exploring how software works from both the development and security perspective.
 
-<table>
+<table border="0" width="100%">
 <tr>
-<td width="70%" valign="top">
 
-<p align="">
+<td width="70%" align="center" valign="middle">
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2200&pause=900&color=00FF6C&center=true&vCenter=true&width=900&height=60&lines=Software+Engineering;Java+%7C+Backend+%7C+DSA;Cyber+Security+Enthusiast;Building+Real+Projects" alt="Typing SVG" />
   </a>
@@ -18,11 +19,12 @@ I enjoy building practical applications and exploring how software works from bo
 
 </td>
 
-<td width="30%" align="center">
+<td width="30%" align="center" valign="middle">
 
 <img height="180" src="https://media.tenor.com/xEFoZaAo2dMAAAAi/club-penguin-dance.gif" alt="Penguin animation" />
 
 </td>
+
 </tr>
 </table>
 
