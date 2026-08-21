@@ -1,4 +1,4 @@
-# Hi there, I'm Pratham 👋
+<center># Hi there, I'm Pratham 👋
 
 ### B.Tech CSE | Cyber Security | Software Engineering
 
