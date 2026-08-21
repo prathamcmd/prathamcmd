@@ -30,8 +30,6 @@ I enjoy building practical applications and exploring how software works from bo
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-## 🔗 Connect With Me
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/prathamcmd">
