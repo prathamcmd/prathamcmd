@@ -62,7 +62,7 @@ I enjoy building practical applications and exploring how software works from bo
 * 🛠️ Enjoy building practical applications and experimenting with new ideas
 * 🎯 Interested in software engineering internships, hackathons, and real-world projects
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ## 🛠️ Technologies
 
@@ -98,7 +98,7 @@ I enjoy building practical applications and exploring how software works from bo
 
 </p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ## 🚀 Projects
 
@@ -115,7 +115,7 @@ An all-in-one student productivity application combining tools such as:
 
 **Built with:** React, TypeScript, Vite & Capacitor
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ### 🌐 deepanshwatersolution.in
 
@@ -123,7 +123,7 @@ A web project developed for **Deepansh Water Solution**.
 
 **Built with:** HTML, CSS & JavaScript
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ### 🔊 Muring
 
@@ -131,13 +131,13 @@ A real-time synchronized speaker system that allows multiple devices to work tog
 
 **Built with:** Node.js, Socket.IO & WebRTC
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ### 💪 Dumbbell
 
 A mobile-first fitness management application for tracking workouts, diet, body metrics, and fitness progress.
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 <br/>
 
