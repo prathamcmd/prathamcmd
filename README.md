@@ -100,9 +100,9 @@ I enjoy building practical applications and exploring how software works from bo
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-## 🚀 Projects
+### 🚀 Projects
 
-### 📚 Korosuke
+#### 📚 Korosuke
 
 An all-in-one student productivity application combining tools such as:
 
@@ -117,7 +117,7 @@ An all-in-one student productivity application combining tools such as:
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-### 🌐 deepanshwatersolution.in
+#### 🌐 deepanshwatersolution.in
 
 A web project developed for **Deepansh Water Solution**.
 
@@ -125,7 +125,7 @@ A web project developed for **Deepansh Water Solution**.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-### 🔊 Muring
+#### 🔊 Muring
 
 A real-time synchronized speaker system that allows multiple devices to work together for synchronized audio playback.
 
@@ -133,7 +133,7 @@ A real-time synchronized speaker system that allows multiple devices to work tog
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
-### 💪 Dumbbell
+#### 💪 Dumbbell
 
 A mobile-first fitness management application for tracking workouts, diet, body metrics, and fitness progress.
 
@@ -141,7 +141,7 @@ A mobile-first fitness management application for tracking workouts, diet, body 
 
 <br/>
 
-## 📊 GitHub Contributions
+### 📊 GitHub Contributions
 
 <div align="center">
 
@@ -166,3 +166,4 @@ A mobile-first fitness management application for tracking workouts, diet, body 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=ec4899&size=16&center=true&vCenter=true&width=700&height=40&lines=PrathamCMD+%7C+Java+Backend+Developer+in+Progress;DSA+%7C+Java+%7C+Spring+Boot+%7C+Cybersecurity;Building+Projects%2C+Breaking+Systems%2C+Learning+Every+Day;Turning+Problems+into+Software;END_OF_TRANSMISSION" alt="Terminal status animation"/>
 
 </div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
