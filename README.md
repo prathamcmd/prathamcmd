@@ -10,7 +10,7 @@ I enjoy building practical applications and exploring how software works from bo
 <tr>
 <td width="70%" valign="top">
 
-<p align="center">
+<p align="">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2200&pause=900&color=00FF6C&center=true&vCenter=true&width=900&height=60&lines=Software+Engineering;Java+%7C+Backend+%7C+DSA;Cyber+Security+Enthusiast;Building+Real+Projects" alt="Typing SVG" />
   </a>
