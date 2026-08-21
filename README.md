@@ -28,7 +28,7 @@ I enjoy building practical applications and exploring how software works from bo
 </tr>
 </table>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ## 🔗 Connect With Me
 
