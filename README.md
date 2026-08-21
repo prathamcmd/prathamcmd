@@ -132,7 +132,7 @@ A mobile-first fitness management application for tracking workouts, diet, body 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=ec4899&size=16&center=true&vCenter=true&width=600&height=40&lines=Structured+Kaos+System+Online;Waiting+for+next+input...;END_OF_TRANSMISSION" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=ec4899&size=16&center=true&vCenter=true&width=700&height=40&lines=PrathamCMD+%7C+Java+Backend+Developer+in+Progress;DSA+%7C+Java+%7C+Spring+Boot+%7C+Cybersecurity;Building+Projects%2C+Breaking+Systems%2C+Learning+Every+Day;Turning+Problems+into+Software;END_OF_TRANSMISSION" alt="Typing SVG" />
 </div>
 
 ## 📫 Let's Connect
