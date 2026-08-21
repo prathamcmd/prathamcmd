@@ -139,7 +139,9 @@ A mobile-first fitness management application for tracking workouts, diet, body 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 <br/>
+
 ### 📊 GitHub Contributions
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
