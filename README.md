@@ -14,6 +14,12 @@ I enjoy building practical applications and exploring how software works from bo
 
 ---
 
+<div align="center">
+  <img height="200" src="https://media.tenor.com/xEFoZaAo2dMAAAAi/club-penguin-dance.gif"  />
+</div>
+
+---
+
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
