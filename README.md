@@ -136,12 +136,10 @@ A real-time synchronized speaker system that allows multiple devices to work tog
 #### 💪 Dumbbell
 
 A mobile-first fitness management application for tracking workouts, diet, body metrics, and fitness progress.
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 <br/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
 ### 📊 GitHub Contributions
-
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
 
